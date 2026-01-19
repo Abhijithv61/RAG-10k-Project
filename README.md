@@ -113,7 +113,7 @@ Evaluation uses a **hybrid strategy**:
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/Abhijithv61/RAG 10k Project.git
+git clone https://github.com/Abhijithv61/RAG-10k-Project
 
 cd RAG_10k_Project
 
