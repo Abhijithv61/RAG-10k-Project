@@ -108,6 +108,22 @@ Evaluation uses a **hybrid strategy**:
 
 
 ---
+## 📎 Runnable Notebook (Google Colab)
+
+A fully reproducible Google Colab notebook is provided to demonstrate the complete end-to-end RAG pipeline.  
+The notebook performs the following steps:
+
+- Clones this GitHub repository
+- Uploads and parses Apple 2024 and Tesla 2023 10-K PDFs
+- Builds hybrid retrieval indices (FAISS + BM25)
+- Runs RAG-based question answering with citations
+- Optionally evaluates predictions against ground truth
+
+🔗 **Colab Notebook:**  
+https://colab.research.google.com/drive/1kmvJPrgQnOSPBJcpfuPTwyODElQXasY-?usp=sharing
+
+> **Note:** Users must provide their own Groq API key to run inference.
+---
 
 ## ⚙️ Setup Instructions
 
