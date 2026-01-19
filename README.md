@@ -22,21 +22,16 @@ Special emphasis is placed on **faithfulness, citation correctness, and hallucin
 
 ## 🏗️ System Architecture
 
-User Query
-│
-├── Hybrid Retrieval
-│ ├── FAISS Vector Search (semantic recall)
-│ └── BM25 Keyword Search (lexical precision)
-│
-├── Merge & De-duplicate
-│
-├── Cross-Encoder Re-Ranking
-│
-├── Context-Aware Prompt Construction
-│
-└── LLM Generation (Groq – LLaMA 3.1)
-↓
-Final Answer with Citations
+- **User Query**
+  - **Hybrid Retrieval**
+    - FAISS Vector Search (semantic recall)
+    - BM25 Keyword Search (lexical precision)
+  - Merge & De-duplicate
+  - Cross-Encoder Re-Ranking
+  - Context-Aware Prompt Construction
+  - LLM Generation (Groq – LLaMA 3.1)
+    - Final Answer with Citations
+
 
 
 ---
@@ -111,10 +106,6 @@ Evaluation uses a **hybrid strategy**:
 | Citation Accuracy | Correct document & section cited |
 | Guardrail Accuracy | Safe refusal on out-of-scope questions |
 
----
-
-## 📂 Repository Structure
-
 
 ---
 
@@ -122,7 +113,8 @@ Evaluation uses a **hybrid strategy**:
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/<your-username>/RAG_10k_Project.git
+git clone https://github.com/Abhijithv61/RAG 10k Project.git
+
 cd RAG_10k_Project
 
 ### 2️⃣ Install Dependencies
