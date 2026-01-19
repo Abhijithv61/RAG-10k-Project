@@ -116,6 +116,48 @@ Provide your final answer below:
 
 
 
+def answer_question(query: str) -> dict:
+    """
+    Answers a question using the RAG pipeline.
+
+    Args:
+        query (str): The user question about Apple or Tesla 10-K filings.
+
+    Returns:
+        dict: {
+            "answer": str,
+            "sources": list
+        }
+    """
+    top_chunks = retrieve_rerank(query)
+    prompt = build_prompt(query, top_chunks)
+
+    response = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.0
+    )
+
+    answer = response.choices[0].message.content.strip()
+
+    sources = []
+    for doc, _ in top_chunks:
+        sources.append([
+            doc.metadata.get("document", "Unknown"),
+            doc.metadata.get("section", "UNKNOWN"),
+            f"p. {doc.metadata.get('page', 'N/A')}"
+        ])
+
+    # Guardrail: refuse out-of-scope
+    if answer == "This question cannot be answered based on the provided documents.":
+        sources = []
+
+    return {
+        "answer": answer,
+        "sources": sources
+    }
+
+
 
 def ask(query):
     top_chunks = retrieve_rerank(query)
