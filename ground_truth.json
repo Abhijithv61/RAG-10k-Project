@@ -1,0 +1,97 @@
+[
+  {
+    "question_id": 1,
+    "answerable": true,
+    "answer": "$391,036 million",
+    "document": "Apple 10-K",
+    "section": "ITEM 8",
+    "page": 282
+  },
+  {
+    "question_id": 2,
+    "answerable": true,
+    "answer": "15,115,823,000 shares",
+    "document": "Apple 10-K",
+    "section": "FIRST PARAGRAPH",
+    "page": null
+  },
+  {
+    "question_id": 3,
+    "answerable": true,
+    "answer": "$96,662 million",
+    "document": "Apple 10-K",
+    "section": "ITEM 8 NOTE 9",
+    "page": 394
+  },
+  {
+    "question_id": 4,
+    "answerable": true,
+    "answer": "November 1, 2024",
+    "document": "Apple 10-K",
+    "section": "SIGNATURE PAGE",
+    "page": null
+  },
+  {
+    "question_id": 5,
+    "answerable": true,
+    "answer": "No",
+    "document": "Apple 10-K",
+    "section": "ITEM 1B",
+    "page": 176
+  },
+  {
+    "question_id": 6,
+    "answerable": true,
+    "answer": "$96,773 million",
+    "document": "Tesla 10-K",
+    "section": "ITEM 7",
+    "page": null
+  },
+  {
+    "question_id": 7,
+    "answerable": true,
+    "answer": "Approximately 84%",
+    "document": "Tesla 10-K",
+    "section": "ITEM 7",
+    "page": null
+  },
+  {
+    "question_id": 8,
+    "answerable": true,
+    "answer": "Tesla is highly dependent on Elon Musk due to his central role in leadership, strategy, and innovation, and his loss could disrupt operations.",
+    "document": "Tesla 10-K",
+    "section": "ITEM 1A",
+    "page": null
+  },
+  {
+    "question_id": 9,
+    "answerable": true,
+    "answer": "Model S, Model 3, Model X, Model Y, and Cybertruck",
+    "document": "Tesla 10-K",
+    "section": "ITEM 1",
+    "page": null
+  },
+  {
+    "question_id": 10,
+    "answerable": true,
+    "answer": "Tesla uses lease pass-through arrangements to finance solar energy systems with investors while customers enter into power purchase agreements.",
+    "document": "Tesla 10-K",
+    "section": "ITEM 7",
+    "page": null
+  },
+  {
+    "question_id": 11,
+    "answerable": false,
+    "answer": "Not answerable"
+  },
+  {
+    "question_id": 12,
+    "answerable": false,
+    "answer": "Not answerable"
+  },
+  {
+    "question_id": 13,
+    "answerable": false,
+    "answer": "Not answerable"
+  }
+]

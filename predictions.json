@@ -1,0 +1,756 @@
+[
+  {
+    "question_id": 1,
+    "answer": "Apple's total revenue for the fiscal year ended September 28, 2024, was $391,035 million [\"Apple 10-K\", \"ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA\", \"p. 31\"].",
+    "sources": [
+      [
+        "Apple 10-K",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "p. 38"
+      ],
+      [
+        "Apple 10-K",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "p. 31"
+      ],
+      [
+        "Apple 10-K",
+        "ITEM 16. FORM",
+        "p. 118"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "page": 38
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "page": 31
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 16. FORM",
+        "page": 118
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "answer": "15,115,823,000 shares of common stock were issued and outstanding as of October 18, 2024 [\"Apple 10-K\", \"UNKNOWN\", \"p. 2\"].",
+    "sources": [
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. 2"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": 2
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "answer": "The total amount of term debt (current + non-current) reported by Apple as of September 28, 2024, is $97,341 million [\"Apple 10-K\", \"ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA\", \"p. 46\"].",
+    "sources": [
+      [
+        "Apple 10-K",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "p. 46"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "p. 45"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "page": 46
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+        "page": 45
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "answer": "The Apple 10-K report for 2024 was signed on November 1, 2024 [\"Apple 10-K\", \"ITEM 16. FORM\", \"p. 118\"]. However, the exact date it was filed with the SEC is not explicitly stated in the provided sources.",
+    "sources": [
+      [
+        "Apple 10-K",
+        "ITEM 16. FORM",
+        "p. 118"
+      ],
+      [
+        "Apple 10-K",
+        "ITEM 16. FORM",
+        "p. 60"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 16. FORM",
+        "page": 118
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 16. FORM",
+        "page": 60
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "answer": "Apple does not have any unresolved staff comments from the SEC as of this filing, as stated in the document [\"Apple 10-K\", \"ITEM 1B. UNRESOLVED STAFF COMMENTS\", \"p. 20\"]. I know this because the section explicitly states \"None\" under Item 1B. Unresolved Staff Comments [\"Apple 10-K\", \"ITEM 1B. UNRESOLVED STAFF COMMENTS\", \"p. 20\"].",
+    "sources": [
+      [
+        "Apple 10-K",
+        "ITEM 1B. UNRESOLVED STAFF COMMENTS",
+        "p. 20"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. 2"
+      ],
+      [
+        "Apple 10-K",
+        "ITEM 1. BUSINESS",
+        "p. 8"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 1B. UNRESOLVED STAFF COMMENTS",
+        "page": 20
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": 2
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 1. BUSINESS",
+        "page": 8
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "answer": "The total revenue for the year ended December 31, 2023, is not explicitly stated in the provided sources. However, based on the information given, we can find the total revenue for the year ended December 31, 2022, which is $96,705 million (calculated by adding the revenues from automotive sales, automotive regulatory credits, automotive leasing, energy generation and storage, and services and other) [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"]. \n\nUnfortunately, the exact figure for the year ended December 31, 2023, cannot be determined from the given information. Therefore, the answer is:\n\nNot specified in the document.",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 58"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t7.\nMANAGEMENT\u2019S",
+        "p. 41"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 58
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t7.\nMANAGEMENT\u2019S",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "answer": "To find the percentage of Tesla's total revenue in 2023 that came from Automotive Sales (excluding Leasing), we first need to find the total revenue for 2023 and the revenue from Automotive Sales (excluding Leasing) for 2023.\n\nThe total revenue for 2023 can be found in SOURCE 2, but it is not explicitly stated on the provided pages. However, we can find the increase in total revenue from 2022 to 2023 and the total revenue for 2022 in SOURCE 1: [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"]. The total revenue for 2022 is $96,773 million. \n\nThe increase in total revenue from 2022 to 2023 is $15,311 million, as stated in SOURCE 1: [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"]. Therefore, the total revenue for 2023 is $96,773 million + $15,311 million = $112,084 million.\n\nThe revenue from Automotive Sales for 2023 can be found in SOURCE 4: [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"]. The Automotive sales revenue increased $11.30 billion, or 17%, in the year ended December 31, 2023, as compared to the year ended December 31, 2022. The Automotive sales revenue for 2022 is $78,509 million, as stated in SOURCE 1: [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"]. \n\nTherefore, the Automotive sales revenue for 2023 is $78,509 million + $11,300 million = $89,809 million.\n\nNow, we can calculate the percentage of Tesla's total revenue in 2023 that came from Automotive Sales (excluding Leasing): ($89,809 million / $112,084 million) * 100% = 80.1% [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"]. \n\nThe final answer is: \n80.1% [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 39\"].",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "ITEM\t7.\nMANAGEMENT\u2019S",
+        "p. 39"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t7.\nMANAGEMENT\u2019S",
+        "p. 39"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t7.\nMANAGEMENT\u2019S",
+        "page": 39
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t7.\nMANAGEMENT\u2019S",
+        "page": 39
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 8,
+    "answer": "The primary reason Tesla states for being highly dependent on Elon Musk is that he is highly active in the company's management, but does not devote his full time and attention to Tesla, as he also serves as Chief Executive Officer and Chief Technical Officer of Space Exploration Technologies Corp., Chairman and Chief Technical Officer of X Corp., and is involved in other emerging technology ventures [\"Tesla 10-K\", \"ITEM\t1A.\tRISK\", \"p. 21\"].",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "ITEM\t1A.\tRISK",
+        "p. 21"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 89"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 89"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t1A.\tRISK",
+        "page": 21
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 89
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 89
+      }
+    ]
+  },
+  {
+    "question_id": 9,
+    "answer": "Tesla currently produces and delivers the following types of vehicles: Model Y, a compact sport utility vehicle (SUV) [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"], Model S, a four-door full-size sedan [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"], Model X, a mid-size SUV [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"], and Cybertruck, a full-size electric pickup truck [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"] and Tesla Semi, a commercial electric vehicle [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"]. Additionally, the company has active production of Model Y at Gigafactory Berlin-Brandenburg and Gigafactory Texas [\"Tesla 10-K\", \"ITEM\t7. MANAGEMENT\u2019S\", \"p. 35\"].",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "ITEM\t7.\nMANAGEMENT\u2019S",
+        "p. 35"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t1A.\tRISK",
+        "p. 18"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t1.\tBUSINESS",
+        "p. 7"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t7.\nMANAGEMENT\u2019S",
+        "page": 35
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t1A.\tRISK",
+        "page": 18
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t1.\tBUSINESS",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "answer": "The purpose of Tesla's lease pass-through fund arrangements is to finance the cost of solar energy systems with investors through arrangements contractually structured as master leases for an initial term ranging between and years [\"Tesla 10-K\", \"UNKNOWN\", \"p. -1\"].",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 11,
+    "answer": "Not specified in the document.",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 90"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 89"
+      ],
+      [
+        "Tesla 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 90
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 89
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 12,
+    "answer": "The CFO of Apple as of the latest information available in the document is Luca Maestri [\"Apple 10-K\", \"ITEM 16. FORM\", \"p. 118\"]. However, since the question asks for the CFO as of 2025 and the latest information available is from 2024, the answer to the question as it is phrased is: Not specified in the document.",
+    "sources": [
+      [
+        "Apple 10-K",
+        "ITEM 16. FORM",
+        "p. 118"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ],
+      [
+        "Apple 10-K",
+        "UNKNOWN",
+        "p. -1"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Apple 10-K",
+        "section": "ITEM 16. FORM",
+        "page": 118
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      },
+      {
+        "document": "Apple 10-K",
+        "section": "UNKNOWN",
+        "page": -1
+      }
+    ]
+  },
+  {
+    "question_id": 13,
+    "answer": "Not specified in the document.",
+    "sources": [
+      [
+        "Tesla 10-K",
+        "ITEM\t16.\tSUMMARY",
+        "p. 122"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t16.\tSUMMARY",
+        "p. 121"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t16.\tSUMMARY",
+        "p. 114"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t1A.\tRISK",
+        "p. 21"
+      ],
+      [
+        "Tesla 10-K",
+        "ITEM\t9A.\tOUR",
+        "p. 90"
+      ]
+    ],
+    "retrieved_chunks": [
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t16.\tSUMMARY",
+        "page": 122
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t16.\tSUMMARY",
+        "page": 121
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t16.\tSUMMARY",
+        "page": 114
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t1A.\tRISK",
+        "page": 21
+      },
+      {
+        "document": "Tesla 10-K",
+        "section": "ITEM\t9A.\tOUR",
+        "page": 90
+      }
+    ]
+  }
+]

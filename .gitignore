@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+rag_venv/
+data/vectorstore/
+data/bm25/
+data/chunks/
+
